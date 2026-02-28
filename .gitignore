@@ -1,0 +1,38 @@
+# Backend
+backend/target/
+backend/.mvn/
+backend/*.jar
+backend/*.war
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment
+.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage
+frontend/coverage/
