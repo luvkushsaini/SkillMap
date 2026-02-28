@@ -66,9 +66,3 @@ cd frontend && npm test
 - **Frontend** → Vercel (set NEXT_PUBLIC_API_URL)
 - **Database** → Render PostgreSQL (free tier)
 
-## Resume Bullets
-- Built full-stack AI-powered learning roadmap generator using Next.js (SSR) and Java Spring Boot REST APIs with PostgreSQL
-- Integrated Gemini AI to dynamically generate personalized learning roadmaps from user goals
-- Implemented JWT authentication with BCrypt and Spring Security for stateless session management
-- Wrote JUnit 5 unit tests for backend services and Jest tests for React components
-- Deployed frontend on Vercel and backend on Render with role-based access control
